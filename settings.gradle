@@ -1,4 +1,4 @@
-rootProject.name = "毛毛虫"
+rootProject.name = "TVBox"
 include ':app'
 include ':player'
 include ':quickjs'
